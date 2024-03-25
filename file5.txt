@@ -1,0 +1,2 @@
+devops
+https://github.com/masireddyvamsidharreddy/myproject1.git
